@@ -1,1 +1,3 @@
-# patterns
+# Patterns
+
+## Studing about architecture patterns
